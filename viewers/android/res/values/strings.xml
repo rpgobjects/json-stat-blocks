@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Stat Block Viewer</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string-array name='statblock_details'>
+        <item>name</item>
+        <item>sex</item>
+        <item>race</item>
+        <item>alignment</item>
+        <item>size</item>
+        <item>class</item>
+        <item>experience</item>
+        <item>cr</item>
+        <item>type</item>
+    </string-array>
+    
+</resources>

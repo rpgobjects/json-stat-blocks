@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"  android:layout_height="match_parent" >
+     <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical">
+         <LinearLayout style="@style/sb_header" android:orientation="horizontal">
+            <TextView style="@style/sb_header.combo" android:id="@+id/name"  android:text="Chris Davis"  />
+            <TextView style="@style/sb_header.combo" android:text=" CR "  />
+            <TextView style="@style/sb_header.combo"  android:id="@+id/cr" android:text="12"  />
+         </LinearLayout>
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/details"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/detection"   />
+         <TextView style="@style/sb_header" android:text="Defense"    />
+     </LinearLayout>      
+</ScrollView>
+
