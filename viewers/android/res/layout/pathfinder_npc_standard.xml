@@ -9,6 +9,26 @@
          <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/details"   />
          <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/detection"   />
          <TextView style="@style/sb_header" android:text="Defense"    />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/ac"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/hp"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/saves"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/defensive_abilities"   />
+         <TextView style="@style/sb_header" android:text="Offense"    />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/speed"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/melee"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/ranged"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/fighting_space"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/special_attacks"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/spell_like_abilities"   />
+         <TextView style="@style/sb_header" android:text="Statistics"    />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/ability_scores"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/attack"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/feats"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/skills"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/languages"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/sq"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt" android:id="@+id/combat_gear"   />
+         <TextView android:paddingLeft="10dp" style="@style/sb_txt.alt" android:id="@+id/other_gear"   />
      </LinearLayout>      
 </ScrollView>
 

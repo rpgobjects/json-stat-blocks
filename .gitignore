@@ -23,3 +23,9 @@ local.properties
 proguard/
 
 *.DS_Store
+
+#android studio
+*.iml
+.idea
+
+

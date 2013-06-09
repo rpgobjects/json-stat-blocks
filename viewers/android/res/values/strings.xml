@@ -16,5 +16,45 @@
         <item>cr</item>
         <item>type</item>
     </string-array>
-    
+    <string-array name="skill_keys" >
+        <item>acrobatics</item>
+        <item>appraise</item>
+        <item>bluff</item>
+        <item>climb</item>
+        <item>craft_1</item>
+        <item>craft_2</item>
+        <item>craft_3</item>
+        <item>diplomacy</item>
+        <item>disable_device</item>
+        <item>disguise</item>
+        <item>escape_artist</item>
+        <item>fly</item>
+        <item>handle_animal</item>
+        <item>heal</item>
+        <item>intimidate</item>
+        <item>kn_arcana</item>
+        <item>kn_dungeoneering</item>
+        <item>kn_engineering</item>
+        <item>kn_geography</item>
+        <item>kn_history</item>
+        <item>kn_local</item>
+        <item>kn_nature</item>
+        <item>kn_nobility</item>
+        <item>kn_planes</item>
+        <item>kn_religion</item>
+        <item>linguistics</item>
+        <item>perception</item>
+        <item>perform_1</item>
+        <item>perform_2</item>
+        <item>profession_1</item>
+        <item>profession_2</item>
+        <item>ride</item>
+        <item>sense_motive</item>
+        <item>sleight_of_hand</item>
+        <item>spellcraft</item>
+        <item>stealth</item>
+        <item>survival</item>
+        <item>swim</item>
+        <item>use_magic_device</item>
+    </string-array>
 </resources>
